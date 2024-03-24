@@ -8,7 +8,7 @@ I'm Data Analyst / Data Scientist with fervent interest in NLP.
 - [English Exercise Generator](https://github.com/GoodchildTrevor/English_Exercise_Generator) - Supporting language learning with automated exercises.
 
 🛠️ **Skills:**
-- Languages: Python, SQL, JavaScript.
+- Languages: Python, SQL, HTML.
 - Main Frameworks/Libraries (Python): Django, Streamlit, Keras, TensorFlow, Pandas, spaCy, nltk, Scikit-learn.
 - Dialects (SQL): MS SQL, Postgre SQL, ClickHouse
 
