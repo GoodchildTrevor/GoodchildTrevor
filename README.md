@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Ruslan 
 
-I'm Data Analyst / Data Scientist with fervent interest in NLP.
+I'm Data Engineer / Data Scientist with fervent interest in NLP.
 
 🏆 **Main Projects:**
 - [Smart Cashback System](https://github.com/AlexStr94/finodays) - Cashbacks for items' categories in financial app.
