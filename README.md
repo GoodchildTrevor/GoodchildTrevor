@@ -9,7 +9,7 @@ I'm Data Engineer / Data Scientist with fervent interest in NLP.
 
 🛠️ **Skills:**
 - Languages: Python, SQL, HTML.
-- Main Frameworks/Libraries (Python): Django, Streamlit, Keras, TensorFlow, PyTorch, Pandas, DuckDB, spaCy, nltk, Scikit-learn.
+- Main Frameworks/Libraries (Python): Django, FastAPI, TensorFlow, PyTorch, Transformers, Pandas, DuckDB, spaCy, nltk, Scikit-learn.
 - Dialects (SQL): ClickHouse, MS SQL, Postgre SQL
 
 📚 **Education:**
