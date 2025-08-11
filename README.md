@@ -3,8 +3,8 @@
 I'm Data Engineer / Data Scientist with fervent interest in NLP.
 
 🏆 **Main Projects:**
+- [Local RAG-chatbot](https://github.com/GoodchildTrevor/local-rag-chat) - Customizable RAG-chatbot with local knowledge base.
 - [Smart Cashback System](https://github.com/AlexStr94/finodays) - Cashbacks for items' categories in financial app.
-- [Local RAG-chatbot]([https://github.com/GoodchildTrevor/Pharm_SMS_creator_with_ChatGPT](https://github.com/GoodchildTrevor/local-rag-chat)) - Customizable RAG-chatbot with local knowledge base.
 - [English Exercise Generator](https://github.com/GoodchildTrevor/English_Exercise_Generator) - Supporting language learning with automated exercises.
 
 🛠️ **Skills:**
