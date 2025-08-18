@@ -13,8 +13,8 @@ I'm Data Engineer / Data Scientist with fervent interest in NLP.
 - Dialects (SQL): ClickHouse, MS SQL, Postgre SQL
 
 📚 **Education:**
-- Master degree in NLP, expected 2025.
-- PhD in History, 2021.
+- Master degree in NLP, expected 2026.
+- PhD in History, 2024.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoodchildTrevor&size_weight=0.5&count_weight=0.5)
 <!--
