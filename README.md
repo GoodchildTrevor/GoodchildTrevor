@@ -1,33 +1,26 @@
-### Hi there 👋 My name is Ruslan 
+### Hi there 👋 I'm Ruslan Kondrashuk
 
-I'm Data Engineer / Data Scientist with fervent interest in NLP.
+I'm an **AI / Data Engineer** passionate about LLMs, self-hosted AI infrastructure, and building robust data pipelines.
+
+🚀 **What I Do:**
+- Design and deploy **LLM-powered applications** (RAG, chatbots, agents)
+- Build **data pipelines** with Spark, Hadoop, ClickHouse, PostgreSQL
+- Self-host AI infrastructure using Ollama, OpenWebUI, Docker 
+- Configure reverse proxies (Nginx, Caddy)
 
 🏆 **Main Projects:**
-- [Local RAG-chatbot](https://github.com/GoodchildTrevor/local-rag-chat) - Customizable RAG-chatbot with local knowledge base.
-- [Smart Cashback System](https://github.com/AlexStr94/finodays) - Cashbacks for items' categories in financial app.
-- [English Exercise Generator](https://github.com/GoodchildTrevor/English_Exercise_Generator) - Supporting language learning with automated exercises.
+- [Local RAG-chatbot](https://github.com/GoodchildTrevor/local-rag-chat) — Customizable RAG-chatbot with a local knowledge base
+- [Smart Cashback System](https://github.com/AlexStr94/finodays) — AI-driven cashback categorization for financial apps
+- [English Exercise Generator]((https://github.com/GoodchildTrevor/english-exercise-generator-django)) — Automated language learning tool powered by NLP
 
-🛠️ **Skills:**
-- Languages: Python, SQL, HTML.
-- Main Frameworks/Libraries (Python): Django, FastAPI, TensorFlow, PyTorch, Transformers, Pandas, DuckDB, spaCy, nltk, Scikit-learn.
-- Dialects (SQL): ClickHouse, MS SQL, Postgre SQL
+🛠️ **Tech Stack:**
+- **Languages:** Python, SQL, Bash
+- **AI/ML:** PyTorch, Tenserflow, Transformers, spaCy, Ollama, LangChain
+- **Data Engineering:** Apache Spark, Hadoop, ClickHouse, PostgreSQL, DuckDB, Pandas
+- **Backend:** FastAPI, Django
+- **DevOps:** Docker, Nginx, Caddy
 
 📚 **Education:**
-- Master degree in NLP, expected 2026.
-- PhD in History, 2024.
+- Ph.D. in History, 2024
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoodchildTrevor&size_weight=0.5&count_weight=0.5)
-<!--
-**GoodchildTrevor/GoodchildTrevor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
