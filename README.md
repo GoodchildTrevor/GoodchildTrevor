@@ -11,7 +11,7 @@ I'm an **AI / Data Engineer** passionate about LLMs, self-hosted AI infrastructu
 🏆 **Main Projects:**
 - [Local RAG-chatbot](https://github.com/GoodchildTrevor/local-rag-chat) — Customizable RAG-chatbot with a local knowledge base
 - [Smart Cashback System](https://github.com/AlexStr94/finodays) — AI-driven cashback categorization for financial apps
-- [English Exercise Generator]((https://github.com/GoodchildTrevor/english-exercise-generator-django)) — Automated language learning tool powered by NLP
+- [English Exercise Generator]((https://github.com/GoodchildTrevor/english-exercise-generator-django) — Automated language learning tool powered by NLP
 
 🛠️ **Tech Stack:**
 - **Languages:** Python, SQL, Bash
