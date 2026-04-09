@@ -23,4 +23,5 @@ I'm an **AI / Data Engineer** passionate about LLMs, self-hosted AI infrastructu
 📚 **Education:**
 - Ph.D. in History, 2024
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoodchildTrevor&size_weight=0.5&count_weight=0.5)
+![Stats](https://github-readme-stats.vercel.app/api?username=GoodchildTrevor&show_icons=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoodchildTrevor&layout=compact&theme=github_dark&hide_border=true&size_weight=0.5&count_weight=0.5)
