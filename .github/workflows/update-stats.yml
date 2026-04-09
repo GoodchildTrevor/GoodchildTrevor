@@ -1,0 +1,47 @@
+name: Update Profile Stats
+on:
+  schedule: [{ cron: "0 3 * * *" }]  # Каждый день в 03:00 UTC
+  workflow_dispatch:                 # + ручная кнопка
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Create output directory
+        run: mkdir -p profile-stats
+
+      # Карточка общей статистики
+      - name: Fetch Stats Card
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=github_dark&hide_border=true&count_private=true" \
+          > profile-stats/stats.svg
+        continue-on-error: true
+
+      # Карточка топ-языков
+      - name: Fetch Top Languages
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=github_dark&hide_border=true&size_weight=0.5&count_weight=0.5" \
+          > profile-stats/top-langs.svg
+        continue-on-error: true
+
+      # Карточка стриков
+      - name: Fetch Streak Stats
+        run: |
+          curl -s "https://github-readme-streak-stats.herokuapp.com/?user=${{ github.repository_owner }}&theme=github-dark&hide_border=true" \
+          > profile-stats/streak.svg
+        continue-on-error: true
+
+      # Коммит изменений
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add profile-stats/*.svg
+          git commit -m "chore: update profile stats" || echo "No changes"
+          git push
